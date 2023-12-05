@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110319455860",
+    "project_id": "java-firebase-ecb5e",
+    "storage_bucket": "java-firebase-ecb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110319455860:android:eca558ec962236a7e84b21",
+        "android_client_info": {
+          "package_name": "com.example.javafirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCetBMnHjiOGat5wlZA5cVHVNmdhxyPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110319455860:android:120aad7455ca61f3e84b21",
+        "android_client_info": {
+          "package_name": "com.example.myfbt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCetBMnHjiOGat5wlZA5cVHVNmdhxyPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
